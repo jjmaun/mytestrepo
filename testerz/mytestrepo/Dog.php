@@ -1,4 +1,4 @@
-<?php namespace testerz\\mytestrepo
+<?php namespace testerz\mytestrepo
 
 
 class Dog extends Animal{
