@@ -1,4 +1,5 @@
-<?php
+<?php namespace testerz\\mytestrepo
+
 class Cat extends Animal{
 
 	private $likesPeople;

@@ -1,4 +1,4 @@
-<?php
+<?php namespace testerz\\mytestrepo
 class Eyes{
 
 	private $color;
