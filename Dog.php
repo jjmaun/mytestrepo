@@ -1,4 +1,6 @@
-<?php
+<?php namespace testerz\\mytestrepo
+
+
 class Dog extends Animal{
 	
 	private $favoriteDogTreat;
@@ -18,4 +20,3 @@ class Dog extends Animal{
 	}
 
 }
-?>
